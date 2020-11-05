@@ -1,6 +1,6 @@
 ## Exploratory Data Analysis
 
-<img align="right" src="https://beingdatum.com/wp-content/uploads/2019/12/EDA.png" alt="Coder GIF" width="400" height="300">
+<img align="center" src="https://beingdatum.com/wp-content/uploads/2019/12/EDA.png" alt="Coder GIF" width="700" height="400">
 
 
 Performing ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’.
